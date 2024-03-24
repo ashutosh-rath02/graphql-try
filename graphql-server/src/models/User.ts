@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { builder } from "../builder";
 import { prisma } from "../db";
 
